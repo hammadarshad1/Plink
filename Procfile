@@ -1,0 +1,1 @@
+web: gunicorn plink_app.wsgi
