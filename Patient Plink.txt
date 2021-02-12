@@ -1,0 +1,41 @@
+- MVP
+  - Dashboard 
+      - Clinic/Hospital Onboarding
+         - Form for Doctor Onboarding
+           - Name
+  	   - Email
+	   - Phonenumber
+   	   - Specialist of
+   	   - Address
+  	   - Working Days
+      - Doctor Onboarding
+         - Form for Doctor Onboarding
+           - Name
+  	   - Email
+	   - Phonenumber
+   	   - Specialist of
+   	   - Address
+  	   - Working Days
+      - Doctor Schedule
+         - Form To add Doctor Schedule
+	   - Working Days
+	     - Working Shift ( Login Time / Logout Time )
+	     - Break Hours
+      - Subscribed Patients
+         - List of patients who subscribed to docs availability
+   - Patient App
+ 	- Paitent Onboarding
+           - Name
+  	   - Email
+	   - Phonenumber
+   	   - Address
+	- Search
+	   - Search by Hospital/Clinic
+	   - Search by Specialty
+	   - Search by Doc Name
+	   - Search by Appointment Time
+ 
+   - Doc App
+	- Schedule
+	  - Ability to update working
+	  - Ability to respond to notification
